@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+h1 {
+  font-size: 28px;
+  padding-left: 16px;
+  border-left: 8px solid orange;
+}
+
+p {
+  line-height: 1.2;
+}
+
